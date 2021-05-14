@@ -1,0 +1,20 @@
+.number
+ {
+     width: 69px;
+     padding: 10px;
+     font-size: 36px;
+     text-align: center;
+     font-style: italic;
+     font-weight: 700;
+ }
+ .button
+ {
+     padding: 10px 30px;
+     font-size: 36px;
+     font-style:oblique;
+     font-weight: bold;
+     background: -moz-linear-gradient(#00BBD6, #EBFFFF);
+     background: -webkit-gradient(linear, 0 0, 0 100%, 
+     from(#14ebeb), to(#b8dfe4));
+     
+ }
